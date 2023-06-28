@@ -28,5 +28,6 @@
 - "croutons" (microwaved tortilla strips, Doritos 😄)  
 
 [^1]: Common protein options include hard-boiled eggs, chicken, beef, and pork
+
 Protein
  : large biomolecules and macromolecules that comprise one or more long chains of amino acid residues
