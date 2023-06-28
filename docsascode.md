@@ -19,15 +19,15 @@
 
 ## *Salads*
 - taco
-- buffalo chicken
+- buffalo chicken[^1]
 ### *Salad formula*
-- Protein (eggs, chicken, beef, pork) [^1]
+- Protein (eggs, chicken, beef, pork) [^2]
 - veggies (including frozen) (slaw)
  cheese
 - dressings(buffalo, cheese sauce, blue cheese)
 - "croutons" (microwaved tortilla strips, Doritos 😄)  
 
-[^1]: Common protein options include hard-boiled eggs, chicken, beef, and pork
+[^1]: chicken + bacon bits + buffalo sauce
 
-Protein
+[^2]: Protein
  : large biomolecules and macromolecules that comprise one or more long chains of amino acid residues
