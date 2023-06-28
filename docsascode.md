@@ -25,7 +25,7 @@
 - veggies (including frozen) (slaw)
  cheese
 - dressings(buffalo, cheese sauce, blue cheese)
-- "croutons" (microwaved tortilla strips, Doritos 😄:)  
+- "croutons" (microwaved tortilla strips, Doritos 😄)  
 
 [^1]: Common protein options include hard-boiled eggs, chicken, beef, and pork
 Protein
