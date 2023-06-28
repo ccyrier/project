@@ -1,6 +1,6 @@
 # Go-To Meals
 
-## **Sandwiches/Wraps**
+## ** Sandwiches/Wraps **
 1. Peanut Butter and Nutella
 
 >nutella is better than jelly
@@ -9,7 +9,7 @@
 3. Tuna
 ---
 # Go-To Meals
-## **Sandwiches/Wraps**
+## ** Sandwiches/Wraps **
 1. Peanut Butter and Nutella
 > nutella is better than jelly
 2. Colds cuts + cheese + veggies
@@ -17,15 +17,15 @@
 
 ---
 
-## ** Salads**
--taco
--buffalo chicken
--formula
---Protein (eggs, chicken, beef, pork) [^1]
---veggies (including frozen) (slaw)
---cheese
---dressings(buffalo, cheese sauce, blue cheese)
---"croutons" (microwaved tortilla strips, ==Doritos== :joy:)  
+## ** Salads **
+- taco
+- buffalo chicken
+- formula
+-- Protein (eggs, chicken, beef, pork) [^1]
+-- veggies (including frozen) (slaw)
+-- cheese
+-- dressings(buffalo, cheese sauce, blue cheese)
+-- "croutons" (microwaved tortilla strips, ==Doritos== :joy:)  
 
 ---
 
